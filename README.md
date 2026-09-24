@@ -4,6 +4,7 @@
   <br>
 
   <img src="https://count.getloli.com/@astrbot_custseg_reply?theme=minecraft&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Counter">
+[![GitHub followers](https://img.shields.io/github/followers/alsunmengy?style=social&label=Follow)](https://github.com/alsunmengy)
 
 # Custom Segment Reply (本地智能分段)
 
